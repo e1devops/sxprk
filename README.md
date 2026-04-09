@@ -1,8 +1,6 @@
 # sxprk
 bot zart zurt libi bop bop
 
-# Commands
-
 ## Autorole
 Autorole can work with more than 1 role. You can add roles to the list, remove from list, toggle autorole thing.
 Bla bla bla.
